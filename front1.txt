@@ -1,1 +1,13 @@
-hello world vidyanikethan
+<header>
+<nav>
+<main>
+<section>
+<article>
+<detail>
+<figure>
+<figcaption>
+<footer>
+<video>
+<aud>
+<mark>
+<summary>
